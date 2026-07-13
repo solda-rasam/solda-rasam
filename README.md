@@ -80,3 +80,15 @@ I enjoy:
 
 ### Network & Security
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=nmap&logoColor=white)
+
+---
+
+**Core Skills & Frameworks:**
+* 🔍 **Incident Response & Log Analysis**
+* 🛡️ **Threat Hunting & Cyber Threat Management** 
+* 💻 **Defensive Security & Endpoint Protection** 
+* 🔑 **Ethical Hacking & Vulnerability Assessment** 
