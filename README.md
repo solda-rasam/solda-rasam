@@ -27,6 +27,27 @@ I enjoy:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soldarasam10@gmail.com)
 
 ---
+
+## 🏅 Certifications & Badges
+
+### 🎓 Harvard CS50 Series
+* **CS50x** – Introduction to Computer Science
+* **CS50P** – Programming with Python
+* **CS50W** – Web Programming with Python and JavaScript
+* **CS50AI** – Introduction to Artificial Intelligence with Python
+* **CS50 Cybersecurity** – Foundational Security Principles
+
+### 🛡️ Cisco Networking Academy
+* **Junior Cybersecurity Analyst Career Path:**
+  * Network Defense
+  * Introduction to Cybersecurity
+  * Cyber Threat Management
+  * Endpoint Security
+
+### 💻 Other Certifications
+* **freeCodeCamp** – Java Programming & Data Structures Certification
+* **EC-Council / Relevant Body** – Certified Ethical Hacker (CEH)
+
 ### 🔧  Tech Stack
 
 #### 💡 Languages
