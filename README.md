@@ -46,7 +46,7 @@ I enjoy:
 
 ### 💻 Other Certifications
 * **freeCodeCamp** – Java Programming & Data Structures Certification
-* **EC-Council / Relevant Body** – Certified Ethical Hacker (CEH)
+* **EC-Council – Certified Ethical Hacker (CEH)
 ---
 
 ## 🔍 Hands-on Experience & Platforms
