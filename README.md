@@ -33,7 +33,7 @@ I enjoy:
 ### 🎓 Harvard CS50 Series
 * **CS50x** – Introduction to Computer Science
 * **CS50P** – Programming with Python
-* **CS50W** – Web Programming with Python and JavaScript
+* **CS50 SQL** – Introduction to databases with SQL
 * **CS50AI** – Introduction to Artificial Intelligence with Python
 * **CS50 Cybersecurity** – Foundational Security Principles
 
