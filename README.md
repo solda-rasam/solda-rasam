@@ -49,7 +49,7 @@ I enjoy:
 * **EC-Council – Certified Ethical Hacker (CEH)
 * https://www.hackerrank.com/certificates/a47decda66d4 (software engineer)
 * https://www.hackerrank.com/certificates/f03d8e09f889 (software engineer intern)
-* https://www.hackerrank.com/certificates/iframe/8552e78521ef
+* https://www.hackerrank.com/certificates/iframe/8552e78521ef (Frontend Developer (React) Certificate)
 ---
 
 ## 🔍 Hands-on Experience & Platforms
